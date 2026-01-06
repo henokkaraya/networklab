@@ -9,6 +9,19 @@ The goal is to practice IP addressing, routing concepts, and connectivity verifi
 - Documented routing behavior and troubleshooting steps
 - Collected evidence (screenshots + commands/output)
 
+## Evidence
+
+### IP configuration
+![IP configuration](screenshots/ip-config.png)
+
+### Routing table
+![Routing table](ip-r-after-route)(routerconnect)
+
+
+### Connectivity test
+![Ping test](ping-from-vm1-to-vm3&4)
+
+
 ## Tech & tools
 - Virtual machines (VirtualBox / VMware)
 - Linux networking basics
